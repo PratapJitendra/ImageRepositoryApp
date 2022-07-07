@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ImageRepositoryApp</string>
+    <string name="database">Image.db</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_list">List</string>
+</resources>
